@@ -1,4 +1,4 @@
-console.log('Client side javaScript');
+//console.log('Client side javaScript');
 
 const weatherForm = document.querySelector('form');
 const search = document.querySelector('input');
